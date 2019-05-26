@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 class Equals extends Component {
   render() {
     return (
-      <button onClick={this.props.doTheMath}></button>
+      <button onClick={this.props.doTheMath}>=</button>
     );
   }
 }

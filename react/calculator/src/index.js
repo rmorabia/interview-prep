@@ -14,6 +14,7 @@ class App extends Component {
     }
     this.valueClick = this.valueClick.bind(this)
     this.doTheMath = this.doTheMath.bind(this)
+    this.clearOutput = this.clearOutput.bind(this)
   }
 
   valueClick(e) {
