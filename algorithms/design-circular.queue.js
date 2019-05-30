@@ -1,3 +1,5 @@
+// Leetcode Link: https://leetcode.com/explore/learn/card/queue-stack/228/first-in-first-out-data-structure/1337/
+
 /**
  * Initialize your data structure here. Set the size of the queue to be k.
  * @param {number} k
