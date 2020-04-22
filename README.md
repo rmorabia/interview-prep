@@ -1,3 +1,1 @@
-# I stream on Twitch almost every day at [twitch.tv/rmorabia](http://twitch.tv/rmorabia).
-
-This is the accompanying code, compiled for easy referencing. This will be updated every day that I stream.
+This repo just has the data for every algorithm I've completed, every dummy project I've made, and whatever else I need to save along the way and along the years of interview prep.
