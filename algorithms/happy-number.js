@@ -37,3 +37,5 @@ var isHappy = function(n) {
     } 
 };
 
+// Performance considerations: How do we improve the way we get nArray?
+
