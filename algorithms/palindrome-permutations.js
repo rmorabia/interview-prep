@@ -1,3 +1,5 @@
+// InterviewCake: https://www.interviewcake.com/question/javascript/permutation-palindrome?course=fc1&section=hashing-and-hash-tables
+
 function hasPalindromePermutation(theString) {
 
   // Check if any permutation of the input is a palindrome
